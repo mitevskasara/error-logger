@@ -1,0 +1,19 @@
+.text {
+    line-height: 2;
+    font-size: 22px;
+}
+
+.back-button {
+    padding: 10px 20px;
+    border: 1px solid #2b696b;
+    color: #2b696b;
+    font-weight: bold;
+    font-size: 14px;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.back-button:hover {
+    background-color: #2b696b21;
+}

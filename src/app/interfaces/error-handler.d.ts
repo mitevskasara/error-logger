@@ -1,0 +1,3 @@
+interface IErrorHandlerState {
+    hasError: boolean;
+}
