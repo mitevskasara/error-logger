@@ -1,4 +1,4 @@
-Simple app bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Simple app bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 for handling and logging UI errors.
 
 ## Available Scripts
